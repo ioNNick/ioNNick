@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ioNNick
 
-- 🌱 I’m currently learning ...
+- 🌱 
 
 
 <!---
